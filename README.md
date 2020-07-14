@@ -1,1 +1,1 @@
-# githobclass.githob.io
+# githobclass.io
